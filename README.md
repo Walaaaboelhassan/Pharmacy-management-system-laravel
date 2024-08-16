@@ -131,4 +131,4 @@ Start Selling: Begin selling the product.
 Stock Management: Update product quantities or make new purchases when notified of stock changes.
 
 thank you
-walaa zidan
+Walaa Hassan  
